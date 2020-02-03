@@ -1,3 +1,3 @@
-# activite2
+# Activite 2
 Activité 2 (openclassrooms).
 Exercice dans "JavaScript ES6 Les fondamentaux" sur openclassrooms.
