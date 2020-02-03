@@ -1,3 +1,3 @@
 # activite2
 Activité 2 (openclassrooms).
-modification locale.
+Exercice dans "JavaScript ES6 Les fondamentaux" sur openclassrooms.
