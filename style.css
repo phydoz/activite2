@@ -1,8 +1,11 @@
-
+html, body {
+    overflow-x: hidden;
+}
 body {
     font-family: sans-serif;
     width: 100vw;
     height: 100vh;
+
 }
 input {
     outline: none;
@@ -31,4 +34,9 @@ label {
     display: flex;
     flex-direction: column;
     margin-bottom: 8px;
+}
+#mdp .info {
+    padding-left: 0;
+    list-style: none;
+    font-size: 13px;
 }
